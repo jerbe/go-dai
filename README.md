@@ -1,7 +1,7 @@
 # Go-DAI
 
 #### 介绍
-golang 代理
+golang 的代理
 
 
 #### 安装教程
